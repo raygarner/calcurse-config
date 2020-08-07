@@ -1,0 +1,10 @@
+clean directory structure and implement in config script
+check out cron
+add st patch to spawn instance in same dir
+add urlview to st
+test install and config scripts
+
+vim macros for:
+    bash scripts
+    C programming
+    makefile

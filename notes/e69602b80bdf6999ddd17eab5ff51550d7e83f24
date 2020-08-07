@@ -1,0 +1,7 @@
+add pacman wrapper scripts
+add git wrapper scripts
+addblock for surf
+wallpaper for surf
+get manual package install working in install script
+add view source feature to surf
+setup rss feed with cron

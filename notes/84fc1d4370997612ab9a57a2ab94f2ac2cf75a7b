@@ -1,0 +1,11 @@
+clean directory structure and implement in config script
+check out cron
+add urlview to st
+test install and config scripts
+figure out how mutt urlview works
+add centre text patch to st
+
+vim macros for:
+    bash scripts
+    C programming
+    makefile

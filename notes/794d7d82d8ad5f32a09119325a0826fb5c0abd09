@@ -1,0 +1,3 @@
+10 mins - display turns off
+
+sudo xset s off -dpms
